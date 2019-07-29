@@ -1,0 +1,28 @@
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Maven
+target/
+pom.xml.releaseBackup
+release.properties
+
+# Eclipse
+.metadata
+.project
+.classpath
+.settings
+*.launch
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# svn
+.svn/
+
+# logs
+/logs
+access.log
+velocity.log
